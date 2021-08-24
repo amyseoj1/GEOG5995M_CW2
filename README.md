@@ -1,7 +1,7 @@
 # GEOG5995M_CW2_Resit
 
 ## Site Location Problem
-The goal of this project is to combine maps of the UK that represent different information important to the a factory that makes rock aggregate. The maps need to be displaced in GUI to allow the company to play with. 
+The goal of this project is to combine maps of the UK that represent different information important to the a factory that makes rock aggregate. The maps need to be displayed in GUI to allow the company to play with. 
 
 ### Steps
 
