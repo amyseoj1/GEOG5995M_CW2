@@ -11,3 +11,14 @@ The goal of this project is to combine maps of the UK that represent different i
 #### 4. Rescale the merged map to 0 to 255 range. 
 #### 5. Display the map.
 #### 6. Output the merged map raster in CSV. 
+
+### Files 
+
+#### Input files are:
+#### Geology.txt
+#### Transport.txt
+#### Population.txt
+
+#### Model: 
+SiteLocationProblem.py 
+
