@@ -15,10 +15,10 @@ The goal of this project is to combine maps of the UK that represent different i
 ### Files 
 
 #### Input files are:
-#### Geology.txt
-#### Transport.txt
-#### Population.txt
+##### Geology.txt
+##### Transport.txt
+##### Population.txt
 
 #### Model: 
-SiteLocationProblem.py 
+##### SiteLocationProblem.py 
 
